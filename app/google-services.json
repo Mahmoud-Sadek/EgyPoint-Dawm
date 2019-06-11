@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298366908795",
+    "firebase_url": "https://dawem-app.firebaseio.com",
+    "project_id": "dawem-app",
+    "storage_bucket": "dawem-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298366908795:android:60c8db5615ba7b11",
+        "android_client_info": {
+          "package_name": "com.sadek.dawemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298366908795-b7td0p3n7pu86e6ulv9e6dsrtmdig2c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sadek.dawemapp",
+            "certificate_hash": "4b477c84a7497480b4fdf6e1922de1d6494bd5ee"
+          }
+        },
+        {
+          "client_id": "298366908795-um1csv9d0vk8ihda8lumldemq8i2pm7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1MZTZGlt8ohIxmmxlyeBvvS8ZosAaaxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298366908795-um1csv9d0vk8ihda8lumldemq8i2pm7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

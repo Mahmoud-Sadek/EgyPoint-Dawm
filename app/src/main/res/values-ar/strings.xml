@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dawem App</string>
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="phone_number">رقم الموبيل</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forget_password">نسيت كلمة المرور ؟</string>
+    <string name="or_login_with">او سجل ب</string>
+    <string name="create_new_account">انشئ حساب جديد</string>
+    <string name="name">الاسم</string>
+    <string name="address">العنوان</string>
+    <string name="confirm_password">تاكيد كلمة المرور</string>
+    <string name="use_curent_location">استخدم الموقع الحالى</string>
+    <string name="have_account">لديك حساب بالفعل</string>
+    <string name="accepte_conditions">اوافق على شروط الاستخدام</string>
+    <string name="code_confirm">كود التفعيل</string>
+    <string name="on_number">على الرقم :</string>
+    <string name="please_wait">من فضلك انتظر</string>
+    <string name="confirm">تأكيد</string>
+    <string name="enter_valid_password">كلمة المرور غير صحيحة</string>
+    <string name="enter_valid_name">الاسم غير صحيح</string>
+    <string name="enter_valid_phone">رقم تليفون غير صالح</string>
+    <string name="enter_valid_location">العنوان غير صالح</string>
+    <string name="enter_valid_code">كود غير صحيح</string>
+    <string name="confirm_privacy">وافق على الشروط والاحكام</string>
+    <string name="dont_have_account">ليس لديك حساب ؟</string>
+    <string name="error_not_completed">لم يكتمل الطلب</string>
+    <string name="save">حفظ</string>
+</resources>
